@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  final-chart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-01-28T18:53:24.0568128-06:00
+    description: A Helm chart for Kubernetes
+    digest: b2911f8d0faeda39551b173d1ca6a57c345bfe660f3b0e347cc2847e3d5e7bf2
+    name: final-chart
+    urls:
+    - https://github.com/rahulguha/helm-example/tree/pages/final-chart-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-01-28T18:53:24.0568128-06:00
